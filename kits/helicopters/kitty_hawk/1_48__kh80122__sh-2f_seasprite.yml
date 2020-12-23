@@ -1,0 +1,43 @@
+---
+manufacturer: Kitty Hawk
+item_no: KH80122
+name: SH-2F Seasprite
+scale: 1:48
+paint:
+  colorset: mr_paint
+  paints:
+    - code: c2
+      name: black
+    - code: c4
+      name: yellow
+    - code: c8
+      name: silver
+    - code: c33
+      name: flat black
+    - code: c38
+      name: olive drab
+    - code: c47
+      name: clear red
+    - code: c55
+      name: khaki
+    - code: c61
+      name: burnt iron
+    - code: c71
+      name: midnight blue
+    - code: c138
+      name: clear green
+    - code: c311
+      name: gray fs3622
+    - code: c318
+      name: radome
+    - code: c317
+      name: gray fs36231
+accessories:
+  - code: EX422
+    manufacturer: Eduard
+    name: Masking set
+    ean: 8591437514229
+  - code: 49847
+    manufacturer: Eduard
+    name: cargo interior
+    ean: 8591437521067
